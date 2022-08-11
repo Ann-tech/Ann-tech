@@ -5,14 +5,14 @@
  [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=4188ff)](https://twitter.com/OnyekaAnn1)
  
 
-I'm a Software Engineer and a Technical writer. I'm passionate about building innovation products, sharing knowledge and others. I create technical content and work on open source projects...
+I'm a Software Engineer and a Technical writer. I'm passionate about building innovative products, sharing knowledge and solving problems. I create technical content and work on open source projects...
 
 **Here's a quick summary about me**:
 
 - 🌱 I’m currently learning Nodejs, express js and moongo db.
 - 😊 I’m open to collaboration on open source projects and hackathons as well as internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Backend Engineer(Intern or Entry level).
-- 📫 You can [view my resume](#) and contact me by emailing [Gmail](mailtoOnyekaann17@gmail.com).
+- 📫 You can [view my resume](#) and contact me by [Email](mailtoOnyekaann17@gmail.com).
 - 😊 Hobbies: I enjoy watching movies, cartoons and anime
 
 ---
