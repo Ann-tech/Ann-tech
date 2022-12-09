@@ -29,7 +29,10 @@ I'm a Software Engineer and a Technical writer. I'm passionate about building in
 ---
 
 ### My Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ann-tech&show_icons=true&include_all_commits=true&hide_border=true" alt="Ann's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-tech&langs_count=8&layout=compact&hide_border=true" alt="Ann's GitHub stats" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ann-tech&show_icons=true&include_all_commits=true&hide_border=true" alt="Ann's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-tech&langs_count=8&layout=compact&hide_border=true" alt="Ann's GitHub stats" /> | 
+<!-- | ------------- | ------------- |
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ann-tech&theme=dark&hide_border=true)](https://github.com/Ann-tech) -->
 
 ---
 
