@@ -29,7 +29,7 @@ I'm a Software Engineer and a Technical writer. I'm passionate about building in
 ---
 
 ### My Stats
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ann-tech&show_icons=true&include_all_commits=true&hide_border=true" alt="Ann's GitHub stats" /> | ------------- | ------------- | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-tech&langs_count=8&layout=compact&hide_border=true" alt="Ann's GitHub stats" /> 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ann-tech&show_icons=true&include_all_commits=true&hide_border=true" alt="Ann's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-tech&langs_count=8&layout=compact&hide_border=true" alt="Ann's GitHub stats" /> 
 
 ---
 
@@ -46,6 +46,12 @@ I'm a Software Engineer and a Technical writer. I'm passionate about building in
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
+
+
+
+
+
 
 
 
